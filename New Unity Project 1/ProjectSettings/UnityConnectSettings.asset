@@ -16,7 +16,11 @@ UnityConnectSettings:
     m_Enabled: 0
     m_TestMode: 0
   UnityAnalyticsSettings:
+<<<<<<< HEAD
     m_Enabled: 1
+=======
+    m_Enabled: 0
+>>>>>>> 9cd0d3a7767e330bf2f67ce3494de0d2a20b1580
     m_InitializeOnStartup: 1
     m_TestMode: 0
     m_TestEventUrl: 
